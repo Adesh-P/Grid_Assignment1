@@ -7,8 +7,9 @@
 }
 body {
     font-family: 'Poppins', sans-serif;
-    background-image: url('img/body-bg.jp');
+    background-image: url('img/star-background-1.png');
     background-size: cover;
+    background-repeat: no-repeat;
 }
 ul {
     list-style-type: none;
